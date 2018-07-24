@@ -1,0 +1,9 @@
+.vscode/
+node_modules/
+unit_coverage/
+/logs
+
+npm-debug.log
+
+.npmrc
+.npmrc.bak
